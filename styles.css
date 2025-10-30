@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  background-color: gainsboro;
+  text-align: center;
+}
+
+h1 {
+  color: darkblue;
+}
+
+#reload {
+  background-color: lightgreen;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+#users {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.userbox {
+  border: 1px solid black;
+  background: white;
+  padding: 10px;
+  margin: 10px;
+  text-align: left;
+}
